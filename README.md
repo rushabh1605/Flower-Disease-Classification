@@ -1,1 +1,1 @@
-# Flower-Disease-Classification
+# Plant-Disease-Classification
